@@ -1,0 +1,416 @@
+[
+    {
+        "fecha": "Jornada 9 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Bolivia",
+                "equipo_visitante": "Colombia",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Ecuador",
+                "equipo_visitante": "Paraguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Venezuela",
+                "equipo_visitante": "Argentina",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Chile",
+                "equipo_visitante": "Brasil",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Perú",
+                "equipo_visitante": "Uruguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 11 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Colombia",
+                "equipo_visitante": "Chile",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Paraguay",
+                "equipo_visitante": "Venezuela",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Uruguay",
+                "equipo_visitante": "Ecuador",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Argentina",
+                "equipo_visitante": "Bolivia",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Brasil",
+                "equipo_visitante": "Perú",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 12 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Colombia",
+                "equipo_visitante": "Ecuador",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Brasil",
+                "equipo_visitante": "Uruguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Argentina",
+                "equipo_visitante": "Perú",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Chile",
+                "equipo_visitante": "Venezuela",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Bolivia",
+                "equipo_visitante": "Paraguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 13 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Paraguay",
+                "equipo_visitante": "Chile",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Brasil",
+                "equipo_visitante": "Colombia",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Perú",
+                "equipo_visitante": "Bolivia",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Uruguay",
+                "equipo_visitante": "Argentina",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Ecuador",
+                "equipo_visitante": "Venezuela",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 14 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Chile",
+                "equipo_visitante": "Ecuador",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Venezuela",
+                "equipo_visitante": "Perú",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Bolivia",
+                "equipo_visitante": "Uruguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Colombia",
+                "equipo_visitante": "Paraguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Argentina",
+                "equipo_visitante": "Brasil",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 15 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Colombia",
+                "equipo_visitante": "Perú",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Paraguay",
+                "equipo_visitante": "Uruguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Ecuador",
+                "equipo_visitante": "Brasil",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Venezuela",
+                "equipo_visitante": "Bolivia",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Chile",
+                "equipo_visitante": "Argentina",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 16 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Brasil",
+                "equipo_visitante": "Paraguay",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Uruguay",
+                "equipo_visitante": "Venezuela",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Perú",
+                "equipo_visitante": "Ecuador",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Argentina",
+                "equipo_visitante": "Colombia",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Bolivia",
+                "equipo_visitante": "Chile",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 17 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Paraguay",
+                "equipo_visitante": "Ecuador",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Argentina",
+                "equipo_visitante": "Venezuela",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Uruguay",
+                "equipo_visitante": "Perú",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Colombia",
+                "equipo_visitante": "Bolivia",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Brasil",
+                "equipo_visitante": "Chile",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    },
+    {
+        "fecha": "Jornada 18 de 18",
+        "encuentros": [
+            {
+                "equipo_local": "Ecuador",
+                "equipo_visitante": "Argentina",
+                "hora": "4:00pm",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Chile",
+                "equipo_visitante": "Uruguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Bolivia",
+                "equipo_visitante": "Brasil",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Venezuela",
+                "equipo_visitante": "Colombia",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            },
+            {
+                "equipo_local": "Perú",
+                "equipo_visitante": "Paraguay",
+                "hora": "",
+                "stadium": "Villa Ingenio",
+                "changed": false,
+                "winner": ""
+            }
+        ],
+        "changed": false
+    }
+]
