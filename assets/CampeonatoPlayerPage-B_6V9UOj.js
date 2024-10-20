@@ -1,0 +1,4 @@
+import{u as i}from"./app.service-CImTAlKv.js";import{d,q as c,c as l,a as o,F as m,n as _,b as u,s as b,r as f,o as t,e as g,w as k,p as w,t as x}from"./index-CZ--LVNJ.js";const C={class:"grid w-full gap-3 pt-5 w-full max-w-96 mx-auto"},h=`
+ bg-indigo-700 rounded-xl  p-3 border border-blue-400/50 w-full
+hover:bg-blue-600 duration-300 hover:border-orange-400/50
+`,L=d({__name:"CampeonatoPlayerPage",setup(v){const a=b(),r=i();return c(()=>r.encuentros.filter(n=>n.campoenato_id===a.params.id)),(n,s)=>{const p=f("RouterLink");return t(),l("div",null,[s[0]||(s[0]=o("header",null,null,-1)),o("section",C,[(t(!0),l(m,null,_(u(r).regiones,e=>(t(),g(p,{key:e.id,to:"/player/campeonato/"+u(a).params.id+"/region/"+e.id},{default:k(()=>[o("button",{class:w(h)},x(e.nombre),1)]),_:2},1032,["to"]))),128))])])}}});export{L as default};
