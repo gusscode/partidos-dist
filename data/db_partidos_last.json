@@ -10,62 +10,6 @@
       "id": "53d8"
     },
     {
-      "equipo_local_id": "5d41",
-      "equipo_visitante_id": "e7e4",
-      "campoenato_id": "e88a",
-      "region_id": "bdb6",
-      "estadium": "",
-      "fecha": "1 de 18",
-      "fecha_orden": 1,
-      "equipo_local_goles": 0,
-      "equipo_visitante_goles": 0,
-      "realizado": false,
-      "id": "77d8"
-    },
-    {
-      "equipo_local_id": "c9e6",
-      "equipo_visitante_id": "168d",
-      "campoenato_id": "e88a",
-      "region_id": "bdb6",
-      "estadium": "",
-      "fecha": "1 de 18",
-      "fecha_orden": 1,
-      "id": "3be2"
-    },
-    {
-      "equipo_local_id": "697c",
-      "equipo_visitante_id": "5d41",
-      "campoenato_id": "e88a",
-      "region_id": "bdb6",
-      "estadium": "",
-      "fecha": "1 de 18",
-      "fecha_orden": 1,
-      "id": "e34e"
-    },
-    {
-      "equipo_local_id": "999a",
-      "equipo_visitante_id": "697c",
-      "campoenato_id": "e88a",
-      "region_id": "bdb6",
-      "estadium": "",
-      "fecha": "2 de 18",
-      "fecha_orden": 2,
-      "id": "d5b7"
-    },
-    {
-      "equipo_local_id": "059b",
-      "equipo_visitante_id": "174f",
-      "campoenato_id": "e88a",
-      "region_id": "bdb6",
-      "estadium": "",
-      "fecha": "2 de 18",
-      "fecha_orden": 2,
-      "equipo_local_goles": 2,
-      "equipo_visitante_goles": 1,
-      "realizado": true,
-      "id": "257e"
-    },
-    {
       "equipo_local_id": "e233",
       "equipo_visitante_id": "168d",
       "campoenato_id": "e88a",
