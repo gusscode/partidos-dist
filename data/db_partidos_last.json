@@ -892,6 +892,517 @@
       "equipo_visitante_goles": 0,
       "realizado": false,
       "id": "80ee"
+    },
+    {
+      "id": "b71a",
+      "equipo_local_id": "",
+      "equipo_visitante_id": "",
+      "estadium": "",
+      "fecha": "",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "realizado": false,
+      "fecha_orden": 0,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 0
+    },
+    {
+      "id": "162b",
+      "equipo_local_id": "",
+      "equipo_visitante_id": "",
+      "estadium": "",
+      "fecha": "",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "realizado": false,
+      "fecha_orden": 0,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 0
+    },
+    {
+      "id": "dbda",
+      "equipo_local_id": "",
+      "equipo_visitante_id": "",
+      "estadium": "",
+      "fecha": "",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "realizado": false,
+      "fecha_orden": 0,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 0
+    },
+    {
+      "id": "93af",
+      "equipo_local_id": "",
+      "equipo_visitante_id": "",
+      "estadium": "",
+      "fecha": "",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "realizado": false,
+      "fecha_orden": 0,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 0
+    },
+    {
+      "id": "82dc",
+      "equipo_local_id": "",
+      "equipo_visitante_id": "",
+      "estadium": "",
+      "fecha": "",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "realizado": false,
+      "fecha_orden": 0,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 0
+    },
+    {
+      "id": "8abd",
+      "equipo_local_id": "",
+      "equipo_visitante_id": "",
+      "estadium": "",
+      "fecha": "",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "realizado": false,
+      "fecha_orden": 0,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 0
+    },
+    {
+      "equipo_local_id": "5e78",
+      "equipo_visitante_id": "c034",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "6022"
+    },
+    {
+      "equipo_local_id": "5e78",
+      "equipo_visitante_id": "c034",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "b076",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "4318"
+    },
+    {
+      "equipo_local_id": "f1b6",
+      "equipo_visitante_id": "abde",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "b076",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 3,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "0a8c"
+    },
+    {
+      "equipo_local_id": "7f93",
+      "equipo_visitante_id": "44dc",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "adc8",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 4,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "52bc"
+    },
+    {
+      "equipo_local_id": "a086",
+      "equipo_visitante_id": "d622",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "e771",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 4,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "b304"
+    },
+    {
+      "equipo_local_id": "66d7",
+      "equipo_visitante_id": "e036",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "08b0",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 2,
+      "equipo_visitante_goles": 2,
+      "realizado": true,
+      "id": "fa98"
+    },
+    {
+      "equipo_local_id": "c61d",
+      "equipo_visitante_id": "dcec",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "fa06",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 6,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "861a"
+    },
+    {
+      "equipo_local_id": "7e60",
+      "equipo_visitante_id": "0afb",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "8489",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 4,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "08eb"
+    },
+    {
+      "equipo_local_id": "b91a",
+      "equipo_visitante_id": "443c",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "fa06",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "3c48"
+    },
+    {
+      "equipo_local_id": "6c52",
+      "equipo_visitante_id": "86a4",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "e771",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 2,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "7922"
+    },
+    {
+      "equipo_local_id": "b535",
+      "equipo_visitante_id": "5e78",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "b076",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "2e44"
+    },
+    {
+      "equipo_local_id": "a8ff",
+      "equipo_visitante_id": "f4f7",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "8489",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 2,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "9917"
+    },
+    {
+      "equipo_local_id": "24f3",
+      "equipo_visitante_id": "c73c",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "adc8",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "54df"
+    },
+    {
+      "equipo_local_id": "3ca4",
+      "equipo_visitante_id": "9658",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "08b0",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 4,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "f21a"
+    },
+    {
+      "equipo_local_id": "dd17",
+      "equipo_visitante_id": "c61d",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "fa06",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 3,
+      "realizado": true,
+      "id": "cd3b"
+    },
+    {
+      "equipo_local_id": "983f",
+      "equipo_visitante_id": "7f93",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "adc8",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 4,
+      "realizado": true,
+      "id": "0d27"
+    },
+    {
+      "equipo_local_id": "6d35",
+      "equipo_visitante_id": "66d7",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "08b0",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 7,
+      "realizado": true,
+      "id": "ffe9"
+    },
+    {
+      "equipo_local_id": "d104",
+      "equipo_visitante_id": "7e60",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "8489",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 4,
+      "realizado": true,
+      "id": "b701"
+    },
+    {
+      "equipo_local_id": "3bc4",
+      "equipo_visitante_id": "a086",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "e771",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 2,
+      "realizado": true,
+      "id": "4540"
+    },
+    {
+      "equipo_local_id": "c034",
+      "equipo_visitante_id": "f1b6",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "b076",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 6,
+      "realizado": true,
+      "id": "eea3"
+    },
+    {
+      "equipo_local_id": "dcec",
+      "equipo_visitante_id": "b91a",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "fa06",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 2,
+      "equipo_visitante_goles": 3,
+      "realizado": true,
+      "id": "c101"
+    },
+    {
+      "equipo_local_id": "44dc",
+      "equipo_visitante_id": "24f3",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "adc8",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 3,
+      "realizado": true,
+      "id": "a7c9"
+    },
+    {
+      "equipo_local_id": "d622",
+      "equipo_visitante_id": "6c52",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "e771",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 3,
+      "realizado": true,
+      "id": "56ed"
+    },
+    {
+      "equipo_local_id": "e036",
+      "equipo_visitante_id": "3ca4",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "08b0",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 0,
+      "equipo_visitante_goles": 3,
+      "realizado": true,
+      "id": "2e6b"
+    },
+    {
+      "equipo_local_id": "0afb",
+      "equipo_visitante_id": "a8ff",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "8489",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 3,
+      "realizado": true,
+      "id": "1885"
+    },
+    {
+      "equipo_local_id": "86a4",
+      "equipo_visitante_id": "3bc4",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "e771",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 2,
+      "equipo_visitante_goles": 2,
+      "realizado": true,
+      "id": "7433"
+    },
+    {
+      "equipo_local_id": "9658",
+      "equipo_visitante_id": "6d35",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "08b0",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 1,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "5ca5"
+    },
+    {
+      "equipo_local_id": "f4f7",
+      "equipo_visitante_id": "d104",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "8489",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 3,
+      "equipo_visitante_goles": 1,
+      "realizado": true,
+      "id": "5597"
+    },
+    {
+      "equipo_local_id": "c73c",
+      "equipo_visitante_id": "983f",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "adc8",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 8,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "2a90"
+    },
+    {
+      "equipo_local_id": "443c",
+      "equipo_visitante_id": "dd17",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "fa06",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 4,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "ab97"
+    },
+    {
+      "equipo_local_id": "abde",
+      "equipo_visitante_id": "b535",
+      "campoenato_id": "e88a",
+      "region_id": "bdb6",
+      "grupo_id": "b076",
+      "estadium": "",
+      "fecha": "Segunda Ronda",
+      "fecha_orden": 1,
+      "equipo_local_goles": 3,
+      "equipo_visitante_goles": 0,
+      "realizado": true,
+      "id": "c0c2"
     }
   ],
   "regiones": [
@@ -908,11 +1419,15 @@
     {
       "nombre": "Concacaf (Norteamérica, Centroamérica y Caribe)",
       "descripcion": "6 plazas directas (incluyendo a los tres anfitriones: México, Estados Unidos y Canadá) + 2 para el repechaje.",
+      "available": true,
+      "tiene_grupos": true,
       "id": "bdb6"
     },
     {
       "nombre": "CONMEBOL (Sudamérica)",
       "descripcion": "6 plazas directas + 1 para el repechaje.",
+      "available": true,
+      "tiene_grupos": false,
       "id": "3bd8"
     },
     {
@@ -926,7 +1441,50 @@
       "id": "2f6a"
     }
   ],
-  "grupos": [],
+  "grupos": [
+    {
+      "id": "b076",
+      "nombre": "Grupo A",
+      "descripcion": "",
+      "region_id": "bdb6",
+      "fecha_actual_orden": 1
+    },
+    {
+      "id": "08b0",
+      "nombre": "Grupo B",
+      "descripcion": "",
+      "region_id": "bdb6",
+      "fecha_actual_orden": 1
+    },
+    {
+      "id": "e771",
+      "nombre": "Grupo C",
+      "descripcion": "",
+      "region_id": "bdb6",
+      "fecha_actual_orden": 1
+    },
+    {
+      "id": "8489",
+      "nombre": "Grupo D",
+      "descripcion": "",
+      "region_id": "bdb6",
+      "fecha_actual_orden": 1
+    },
+    {
+      "id": "fa06",
+      "nombre": "Grupo E",
+      "descripcion": "",
+      "region_id": "bdb6",
+      "fecha_actual_orden": 1
+    },
+    {
+      "id": "adc8",
+      "nombre": "Grupo F",
+      "descripcion": "",
+      "region_id": "bdb6",
+      "fecha_actual_orden": 1
+    }
+  ],
   "equipos": [
     {
       "nombre": "Bolivia",
@@ -996,6 +1554,216 @@
       "pais": "Paraguay",
       "pais_bandera_img": "/images/paraguay.png",
       "id": "e233"
+    },
+    {
+      "nombre": "Honduras",
+      "bandera_img": "/images/honduras.png",
+      "pais": "Honduras",
+      "pais_bandera_img": "/images/honduras.png",
+      "id": "f1b6"
+    },
+    {
+      "nombre": "Cuba",
+      "bandera_img": "/images/cuba.png",
+      "pais": "Cuba",
+      "pais_bandera_img": "/images/cuba.png",
+      "id": "abde"
+    },
+    {
+      "nombre": "Islas Caimán",
+      "bandera_img": "/images/islas caiman.png",
+      "pais": "Islas Caimán",
+      "pais_bandera_img": "/images/islas caiman.png",
+      "id": "b535"
+    },
+    {
+      "nombre": "Antigua y Barbuda",
+      "bandera_img": "/images/antigua y barbuda.png",
+      "pais": "Antigua y Barbuda",
+      "pais_bandera_img": "/images/antigua y barbuda.png",
+      "id": "5e78"
+    },
+    {
+      "nombre": "Bermudas",
+      "bandera_img": "/images/bermudas.png",
+      "pais": "Bermudas",
+      "pais_bandera_img": "/images/bermudas.png",
+      "id": "c034"
+    },
+    {
+      "nombre": "Costa Rica",
+      "bandera_img": "/images/costa rica.png",
+      "pais": "Costa Rica",
+      "pais_bandera_img": "/images/costa rica.png",
+      "id": "3ca4"
+    },
+    {
+      "nombre": "Trinidad y Tobago",
+      "bandera_img": "/images/trinidad y tobago.png",
+      "pais": "Trinidad y Tobago",
+      "pais_bandera_img": "/images/trinidad y tobago.png",
+      "id": "66d7"
+    },
+    {
+      "nombre": "San Cristóbal",
+      "bandera_img": "/images/san cristobal.png",
+      "pais": "San Cristóbal",
+      "pais_bandera_img": "/images/san cristobal.png",
+      "id": "9658"
+    },
+    {
+      "nombre": "Granada",
+      "bandera_img": "/images/granada.png",
+      "pais": "Granada",
+      "pais_bandera_img": "/images/granada.png",
+      "id": "e036"
+    },
+    {
+      "nombre": "Bahamas",
+      "bandera_img": "/images/bahamas.png",
+      "pais": "Bahamas",
+      "pais_bandera_img": "/images/bahamas.png",
+      "id": "6d35"
+    },
+    {
+      "nombre": "Curazao",
+      "bandera_img": "/images/curazao.png",
+      "pais": "Curazao",
+      "pais_bandera_img": "/images/curazao.png",
+      "id": "a086"
+    },
+    {
+      "nombre": "Haití",
+      "bandera_img": "/images/haiti.png",
+      "pais": "Haití",
+      "pais_bandera_img": "/images/haiti.png",
+      "id": "6c52"
+    },
+    {
+      "nombre": "Santa Lucía",
+      "bandera_img": "/images/santa lucia.png",
+      "pais": "Santa Lucía",
+      "pais_bandera_img": "/images/santa lucia.png",
+      "id": "86a4"
+    },
+    {
+      "nombre": "Aruba",
+      "bandera_img": "/images/aruba.png",
+      "pais": "Aruba",
+      "pais_bandera_img": "/images/aruba.png",
+      "id": "3bc4"
+    },
+    {
+      "nombre": "Barbados",
+      "bandera_img": "/images/barbados.png",
+      "pais": "Barabados",
+      "pais_bandera_img": "/images/barbados.png",
+      "id": "d622"
+    },
+    {
+      "nombre": "Nicaragua",
+      "bandera_img": "/images/nicaragua.png",
+      "pais": "Nicaragua",
+      "pais_bandera_img": "/images/nicaragua.png",
+      "id": "7e60"
+    },
+    {
+      "nombre": "Panamá",
+      "bandera_img": "/images/panama.png",
+      "pais": "Panamá",
+      "pais_bandera_img": "/images/panama.png",
+      "id": "a8ff"
+    },
+    {
+      "nombre": "Guyana",
+      "bandera_img": "/images/guyana.png",
+      "pais": "Guyana",
+      "pais_bandera_img": "/images/guyana.png",
+      "id": "f4f7"
+    },
+    {
+      "nombre": "Montserrat",
+      "bandera_img": "/images/montserrat.png",
+      "pais": "Montserrat",
+      "pais_bandera_img": "/images/montserrat.png",
+      "id": "0afb"
+    },
+    {
+      "nombre": "Belice",
+      "bandera_img": "/images/belice.png",
+      "pais": "Belice",
+      "pais_bandera_img": "/images/belice.png",
+      "id": "d104"
+    },
+    {
+      "nombre": "Guatemala",
+      "bandera_img": "/images/guatemala.png",
+      "pais": "Guatemala",
+      "pais_bandera_img": "/images/guatemala.png",
+      "id": "c61d"
+    },
+    {
+      "nombre": "Jamaica",
+      "bandera_img": "/images/jamaica.png",
+      "pais": "Jamaica",
+      "pais_bandera_img": "/images/jamaica.png",
+      "id": "b91a"
+    },
+    {
+      "nombre": "República Dominicana",
+      "bandera_img": "/images/republica dominicana.png",
+      "pais": "República Dominicana",
+      "pais_bandera_img": "/images/republica dominicana.png",
+      "id": "443c"
+    },
+    {
+      "nombre": "Dominica",
+      "bandera_img": "/images/dominica.png",
+      "pais": "Dominica",
+      "pais_bandera_img": "/images/dominica.png",
+      "id": "dcec"
+    },
+    {
+      "nombre": "Islas Virgenes Británicas",
+      "bandera_img": "/images/Islas virgenes britanicas.png",
+      "pais": "Islas Virgenes Británicas",
+      "pais_bandera_img": "/images/Islas virgenes britanicas.png",
+      "id": "dd17"
+    },
+    {
+      "nombre": "Surinam",
+      "bandera_img": "/images/surinam.png",
+      "pais": "Surinam",
+      "pais_bandera_img": "/images/surinam.png",
+      "id": "7f93"
+    },
+    {
+      "nombre": "Puerto Rico",
+      "bandera_img": "/images/puerto rico.png",
+      "pais": "Puerto Rico",
+      "pais_bandera_img": "/images/puerto rico.png",
+      "id": "c73c"
+    },
+    {
+      "nombre": "El Salvador",
+      "bandera_img": "/images/el salvador.png",
+      "pais": "El Salvador",
+      "pais_bandera_img": "/images/el salvador.png",
+      "id": "24f3"
+    },
+    {
+      "nombre": "San Vicente y Granadinas",
+      "bandera_img": "/images/san vicente y granadinas.png",
+      "pais": "San Vicente y Granadinas",
+      "pais_bandera_img": "/images/san vicente y granadinas.png",
+      "id": "44dc"
+    },
+    {
+      "nombre": "Anguila",
+      "bandera_img": "/images/anguila.png",
+      "pais": "Anguila",
+      "pais_bandera_img": "/images/anguila.png",
+      "id": "983f"
     }
   ],
   "fechas": [
@@ -1025,6 +1793,7 @@
           "puntos_descuento": 3
         }
       ],
+      "available": true,
       "id": "e88a"
     },
     {

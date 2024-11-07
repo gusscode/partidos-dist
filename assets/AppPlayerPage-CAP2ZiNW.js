@@ -1,0 +1,4 @@
+import{u as i}from"./app.service-Cx92PLT6.js";import{d as u,c as o,a as r,F as t,g as d,e as p,r as c,f as s,h as g,w as m,n as b,t as f,i as _}from"./index-BTGA3Sxu.js";const k={class:"grid w-full gap-3 pt-5 w-full max-w-96 mx-auto"},C=`
+ bg-cyan-700 rounded-xl  p-3 border border-blue-400/50 w-full
+hover:bg-blue-600 duration-300 hover:border-orange-400/50
+`,y=u({__name:"AppPlayerPage",setup(h){const l=i();return(v,a)=>{const n=c("RouterLink");return s(),o(t,null,[a[0]||(a[0]=r("header",{class:"grid md:grid-cols-2 p-2"},[r("div"),r("div",null,[r("h3",null,"Calculadora de eliminatorias")])],-1)),r("section",k,[(s(!0),o(t,null,d(p(l).campeonatos,e=>(s(),o(t,{key:e.id},[e.available?(s(),g(n,{key:0,to:"/campeonato/"+e.id+(e.regiones?"/regiones/":"")+(e.grupos?"/grupos/":"")+(e.ligas?"/ligas/":"")},{default:m(()=>[r("button",{class:b(C)},f(e.nombre),1)]),_:2},1032,["to"])):_("",!0)],64))),128))])],64)}}});export{y as default};
